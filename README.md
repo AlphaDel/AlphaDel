@@ -2,12 +2,18 @@
 
 ## <img src="https://user-images.githubusercontent.com/16854458/125782070-dd0439ad-b056-405f-8d4f-77e0d2f0b898.gif" width="35px" />&nbsp;<b>Hi, I'm Wuttinan</b>
 
+<img align="right" src="https://user-images.githubusercontent.com/16854458/125951815-f0f51731-ca59-4da3-aad5-0b09dcc09177.png"  width="200" />
+
+<p aligh="left">
 <p>Hey there, welcome!</br>
 I'm Wuttinan, Front End developer from <img src="https://user-images.githubusercontent.com/16854458/125782919-80d23f08-ed15-43ea-b2fa-976f300a9a06.png" width="14px" /> <b>Bangkok, Thailand</b>.
+</p>
 
 - 🔭 I’m currently working on <b>Cryptocurrency Exchange</b>.
 - 🌱 I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and <a style="color:#45b8d8" href="https://nodejs.org/" target="_blank"><u>NodeJS</u></a> 
-<hr />
+
+<br>
+<hr/>
 <h2>👨🏻‍💻 &nbsp;My stacks and tools...</h2>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
