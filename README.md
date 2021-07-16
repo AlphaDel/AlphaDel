@@ -38,8 +38,8 @@ I'm Wuttinan, Front End developer from <img src="https://user-images.githubuserc
 
 <h2>📈 Github Stats</h2>
 
-![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaDel&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Fire&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaDel&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th3Fire&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
 </span>
