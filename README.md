@@ -6,7 +6,7 @@
 
 <p aligh="left">
 <p>Hey there, welcome!</br>
-I'm Wuttinan, Front End developer from <img src="https://user-images.githubusercontent.com/16854458/125782919-80d23f08-ed15-43ea-b2fa-976f300a9a06.png" width="14px" /> <b>Bangkok, Thailand</b>.
+I'm Wuttinan, Software engineer from <img src="https://user-images.githubusercontent.com/16854458/125782919-80d23f08-ed15-43ea-b2fa-976f300a9a06.png" width="14px" /> <b>Bangkok, Thailand</b>.
 </p>
 
 - 🔭 I’m currently working on <b>Cryptocurrency Exchange</b>.
