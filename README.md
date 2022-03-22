@@ -10,7 +10,7 @@ I'm Wuttinan, Software engineer from <img src="https://user-images.githubusercon
 </p>
 
 - 🔭 I’m currently working on <b>Cryptocurrency Exchange</b>.
-- 🌱 I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#45b8d8" href="https://graphql.org/" target="_blank"><u>GraphQL</u></a> and <a style="color:#45b8d8" href="https://nodejs.org/" target="_blank"><u>NodeJS</u></a> 
+- 🌱 I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#45b8d8" href="https://graphql.org/" target="_blank"><u>GraphQL</u></a>, <a style="color:#45b8d8" href="https://nodejs.org/" target="_blank"><u>NodeJS</u></a> and <a style="color:#45b8d8" href="https://elixir-lang.org/" target="_blank"><u>Elixir</u></a>
 
 <br>
 <hr/>
