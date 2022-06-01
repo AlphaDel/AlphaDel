@@ -2,7 +2,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/16854458/125782070-dd0439ad-b056-405f-8d4f-77e0d2f0b898.gif" width="35px" />&nbsp;<b>Hi, I'm Wuttinan</b>
 
-<img align="right" src="https://user-images.githubusercontent.com/16854458/125951815-f0f51731-ca59-4da3-aad5-0b09dcc09177.png"  width="200" />
+<img align="right" src="https://user-images.githubusercontent.com/16854458/125951815-f0f51731-ca59-4da3-aad5-0b09dcc09177.png"  width="10px" />
 
 <p aligh="left">
 <p>Hey there, welcome!</br>
